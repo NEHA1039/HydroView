@@ -9,5 +9,4 @@ public class HydroviewApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HydroviewApiApplication.class, args);
 	}
-
 }
